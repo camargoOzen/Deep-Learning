@@ -7,9 +7,10 @@ This repository contains solutions, implementations, and notes based on the book
 
 Each notebook corresponds to a chapter of the book:
 
-- [Deep Neural Networks](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/DeepNeuralNetworks)
-- [Shallow Neural Networks](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/ShallowNeuralNetworks)
 - [Supervised Learning](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/SupervisedLearning)
+- [Shallow Neural Networks](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/ShallowNeuralNetworks)
+- [Deep Neural Networks](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/DeepNeuralNetworks)
+- [Loss Functions](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/LossFunctions)
 - *(More coming soon)*
 
 ## Requirements
