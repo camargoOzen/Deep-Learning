@@ -12,6 +12,7 @@ Each notebook corresponds to a chapter of the book:
 - [Deep Neural Networks](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/DeepNeuralNetworks)
 - [Loss Functions](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/LossFunctions)
 - [Fitting Models](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/FittingModels)
+- [Greadients and Initialization](https://github.com/camargoOzen/Deep-Learning/tree/main/Notebooks/GradientsAndInitialization)
 - *(More coming soon)*
 
 ## Requirements
